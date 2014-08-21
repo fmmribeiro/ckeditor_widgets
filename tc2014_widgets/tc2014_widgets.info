@@ -1,0 +1,4 @@
+name = TC2014 CKEditor Widgets
+description = Example CKEditor Widget implementations.
+core = 7.x
+dependencies[] = ckeditor
